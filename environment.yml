@@ -1,0 +1,13 @@
+name: lammps-deepmd
+channels:
+  - https://conda.deepmodeling.com
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - matplotlib
+  - numpy
+  - jupyterlab
+  - deepmd-kit=*=*cpu
+  - libdeepmd=*=*cpu
+  - lammps
