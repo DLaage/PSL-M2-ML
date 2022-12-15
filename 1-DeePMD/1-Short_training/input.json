@@ -42,7 +42,7 @@
         "_comment": " that's all"
     },
     "training": {
-        "stop_batch": 2500,
+        "stop_batch": 1500,
         "seed": 25875,
         "_comment": "that's all",
         "disp_file": "lcurve.out",
