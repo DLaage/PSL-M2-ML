@@ -2,7 +2,7 @@
 
 My Binder can be used to interact with these notebooks online:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/axgmz/test_notebook/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DLaage/PSL-M2-ML/HEAD)
 
 ## Running
 
