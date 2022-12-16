@@ -1,4 +1,4 @@
-# test_notebook
+# PSL-M2-ML
 
 My Binder can be used to interact with these notebooks online:
 
